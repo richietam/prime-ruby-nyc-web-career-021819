@@ -5,4 +5,5 @@ def prime?(num)
   elsif
   num % num == 0
     true
+  end 
 end
